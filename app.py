@@ -1,5 +1,6 @@
 import streamlit as st
 
+st.markdown('<meta name="google-site-verification" content="5xFzHMM8a7fZgofBrBytFHbfKy---XeJFHb-CZv_Oto" />',unsafe_allow_html=True)
 # アプリのタイトル
 st.title("ドッカンダメージ計算ツール")
 
